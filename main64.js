@@ -18,7 +18,7 @@ function Beautify(what) { //turns 9999999 into 9,999,999
 }
 
 
-Trees=0;
+Trees=123123123123347623457612381723618273162387162478124;
 
 Apples=0;
 Trucks=0;
